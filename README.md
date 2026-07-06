@@ -19,7 +19,6 @@ I work across the entire stack—from embedded systems to cloud-native apps.
 
 ---
 
-### 📊 GitHub Stats
 
 ### 📊 GitHub Stats
 
