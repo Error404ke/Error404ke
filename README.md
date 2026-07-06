@@ -24,6 +24,7 @@ I work across the entire stack—from embedded systems to cloud-native apps.
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Error404ke&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Error404ke&layout=compact&theme=radical&langs_count=8&hide=html,css"/>
+  ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&v=1)
 </div>
 
 ---
