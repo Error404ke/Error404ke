@@ -47,5 +47,21 @@ I work across the entire stack—from embedded systems to cloud-native apps.
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/john njenga)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/error404.nf)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?logo=vercel&logoColor=white)](https://yourportfolio.com)# Erro404ke
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?logo=vercel&logoColor=white)](https://yourportfolio.com)# 
+
+### 📊 GitHub Stats & Activity
+
+<div align="center">
+
+**📈 Contribution Graph**
+
+[![Error404ke's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Error404ke&theme=react-dark&area=true&hide_border=true)](https://github.com/Error404ke)
+
+**📊 Stats**
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Error404ke&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Error404ke&layout=compact&theme=radical&langs_count=8&hide=html,css"/>
+
+</div>
+Erro404ke
 about
