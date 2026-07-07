@@ -24,19 +24,10 @@
 
 ---
 
-### 🎯 **About Me**
+### **About Me**
 
 > *"Crafting elegant solutions across the entire stack—from embedded systems to cloud-native apps."*
 
-python
-class Error404ke:
-    def __init__(self):
-        self.role = "Full-Stack Engineer"
-        self.location = "🌍 Remote"
-        self.languages = ["Python", "Java", "JavaScript", "TypeScript", 
-                          "C++", "C", "Rust", "Ruby", "Dart"]
-        self.frameworks = ["Django", "Flask", "Node.js", "Flutter"]
-        self.mission = "Building software that makes a difference"
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" /> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" /> <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" /> <img src="https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white" />
 
@@ -48,7 +39,7 @@ class Error404ke:
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
 </div>
 
-<div align="center"><!-- Glowing Activity Graph --><img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Error404ke&bg_color=0d1117&color=6C63FF&line=6C63FF&point=FF6B6B&area=true&area_color=6C63FF&hide_border=true&custom_title=📈%20Coding%20Heatmap" />
+<div align="center"><!-- Glowing Activity Graph --><img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Error404ke&bg_color=0d1117&color=6C63FF&line=6C63FF&point=FF6B6B&area=true&area_color=6C63FF&hide_border=true&custom_title=%20Coding%20Heatmap" />
 
 
 
