@@ -4,6 +4,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=35&duration=3000&pause=1000&center=true&vCenter=true&width=600&height=70&lines=Hi%2C+I'm+Error404ke;Full-Stack+Engineer;Polyglot+Developer;Building+the+Future" alt="Typing SVG" />
   
   <br>
+
+  <div align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" /></div>
   
   <!-- Elegant Badge Row -->
   <p>
@@ -14,13 +16,6 @@
   </p>
 
   <!-- Animated Snake Game Contributions -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Error404ke/Error404ke/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Error404ke/Error404ke/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/Error404ke/Error404ke/output/github-contribution-grid-snake-dark.svg" />
-  </picture>
-
-</div>
 
 ---
 
@@ -39,15 +34,20 @@
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
 </div>
 
+
 <div align="center"><!-- Glowing Activity Graph --><img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Error404ke&bg_color=0d1117&color=6C63FF&line=6C63FF&point=FF6B6B&area=true&area_color=6C63FF&hide_border=true&custom_title=%20Coding%20Heatmap" />
 
 
 
-<table align="center"> <tr> <td width="50%"> <img src="https://github-readme-stats.vercel.app/api?username=Error404ke&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=6C63FF&icon_color=FF6B6B&ring_color=6C63FF" /> </td> <td width="50%"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Error404ke&layout=compact&theme=radical&hide=html,css&hide_border=true&bg_color=0d1117&title_color=6C63FF&icon_color=FF6B6B" /> </td> </tr> </table><!-- Streak Stats --><img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Error404ke&theme=radical&hide_border=true&background=0D1117&stroke=6C63FF&ring=FF6B6B&fire=6C63FF&currStreakNum=FFD93D" /></div>
 
-<div align="center"> <img width="100%" src="https://github-profile-trophy.vercel.app/?username=Error404ke&theme=radical&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" /></div>
+
 <div align="center"> <a href="https://linkedin.com/in/John Njenga"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://twitter.com/error4.0.4_nf"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /> </a> <a href="https://error404.com"> <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /> </a> <a href="mailto:njenganjengaemail312@gmail.com"> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /> </a></div>
-<div align="center"> <!-- Visitor Counter --> 
-  <img src="https://komarev.com/ghpvc/?username=Error404ke&style=for-the-badge&color=6C63FF" /> <br>
+<!-- <div align="center"> <!-- Visitor Counter --> 
+  <!-- <img src="https://komarev.com/ghpvc/?username=Error404ke&style=for-the-badge&color=6C63FF" /> <br>  -->
+
+<!-- <div align="center"> <img width="100%" src="https://github-profile-trophy.vercel.app/?username=Error404ke&theme=radical&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" /> <br> <img src="https://img.shields.io/badge/%20GitHub%20Star-FFD700?style=for-the-badge&logo=github&logoColor=black" /> <img src="https://img.shields.io/badge/%20Hackathon%20Winner-FF6B6B?style=for-the-badge" /> <img src="https://img.shields.io/badge/%20Tech%20Writer-6C63FF?style=for-the-badge" /> <img src="https://img.shields.io/badge/%20Open%20Source%20Contributor-00C853?style=for-the-badge" /> <img src="https://img.shields.io/badge/%20Google%20Dev%20Expert-4285F4?style=for-the-badge&logo=google&logoColor=white" /> <img src="https://img.shields.io/badge/%20Python%20Certified-3776AB?style=for-the-badge&logo=python&logoColor=white" /></div> -->
+
+<div align="center"> <a href="https://open.spotify.com/user/404"> <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" /> </a> <!-- Spotify Now Playing Card --> <br> 
+
 
 
