@@ -37,8 +37,7 @@
 
 <div align="center"><!-- Glowing Activity Graph --><img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Error404ke&bg_color=0d1117&color=6C63FF&line=6C63FF&point=FF6B6B&area=true&area_color=6C63FF&hide_border=true&custom_title=%20Coding%20Heatmap" />
 
-
-
+<!-- Stats Cards with Classy Glow --><table align="center"> <tr> <td width="50%"> <img src="https://github-readme-stats.vercel.app/api?username=Error404ke&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=6C63FF&icon_color=FF6B6B&ring_color=6C63FF" /> </td> <td width="50%"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Error404ke&layout=compact&theme=radical&hide=html,css&hide_border=true&bg_color=0d1117&title_color=6C63FF&icon_color=FF6B6B" /> </td> </tr> </table><!-- Streak Stats --><img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Error404ke&theme=radical&hide_border=true&background=0D1117&stroke=6C63FF&ring=FF6B6B&fire=6C63FF&currStreakNum=FFD93D" /></div>
 
 
 <div align="center"> <a href="https://linkedin.com/in/John Njenga"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://twitter.com/error4.0.4_nf"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /> </a> <a href="https://error404.com"> <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /> </a> <a href="mailto:njenganjengaemail312@gmail.com"> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /> </a></div>
