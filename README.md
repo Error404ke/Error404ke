@@ -15,7 +15,6 @@
     <img src="https://img.shields.io/badge/-8%20Years%20Coding-FFD93D?style=for-the-badge&logo=code&logoColor=black" />
   </p>
 
-  <!-- Animated Snake Game Contributions -->
 
 
 ### **About Me**
