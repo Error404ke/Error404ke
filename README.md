@@ -1,5 +1,5 @@
 <div align="center">
-  
+
   <!-- Animated Gradient Header -->
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=35&duration=3000&pause=1000&center=true&vCenter=true&width=600&height=70&lines=Hi%2C+I'm+Error404ke;Full-Stack+Engineer;Polyglot+Developer;Building+the+Future" alt="Typing SVG" />
   
