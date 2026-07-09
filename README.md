@@ -17,7 +17,6 @@
 
   <!-- Animated Snake Game Contributions -->
 
----
 
 ### **About Me**
 
