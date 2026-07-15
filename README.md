@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/badge/-9%20Languages-6C63FF?style=for-the-badge&logo=code&logoColor=white" />
     <img src="https://img.shields.io/badge/-4%20Frameworks-00C853?style=for-the-badge&logo=stackshare&logoColor=white" />
     <img src="https://img.shields.io/badge/-Open%20Source-FF6B6B?style=for-the-badge&logo=github&logoColor=white" />
-    <img src="https://img.shields.io/badge/-8%20Years%20Coding-FFD93D?style=for-the-badge&logo=code&logoColor=black" />
+    <img src="https://img.shields.io/badge/-3%20Years%20Coding-FFD93D?style=for-the-badge&logo=code&logoColor=black" />
   </p>
 
 
